@@ -45,7 +45,7 @@ I'm a software developer with experience in building modern, scalable, and secur
 
 ## 💼 Featured Projects
 
-### [Contato-Fácil](https://github.com/loopesm/contato-facil)
+### [Contato-Fácil](https://github.com/loopesm/ContatoFacil.git)
 Contato-Fácil is a web application that allows users to manage their contact lists securely and easily, offering features such as authentication, CRUD for contacts, a responsive interface, and data protection.
 
 **Key Technologies Used:**
