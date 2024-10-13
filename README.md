@@ -65,7 +65,7 @@ Contato-Fácil is a web application that allows users to manage their contact li
 ---
 
 ## 🌍 Connect with Me
-- **LinkedIn**: [Your LinkedIn](https://linkedin.com/in/moises-e-lopes/)
+- **LinkedIn**: [Moisés Lopes](https://linkedin.com/in/moises-e-lopes/)
 
 ---
 
