@@ -94,16 +94,7 @@ Auto Progress is a command-line tool developed to automate course progress, faci
 - **Database:** SQL (MariaDB), NoSQL (MongoDB), ORM/ODM (Sequelize, Mongoose)
 - **Automation:** Web Scraping, Browser Automation, CLI Tools Development
 - **Best Practices:** ESLint, Prettier, Code Quality Standards, Clean Code
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loopesm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopesm&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
+  
 ---
 
 ## 🌍 Connect with Me
@@ -116,9 +107,3 @@ Auto Progress is a command-line tool developed to automate course progress, faci
 ⭐️ **Feel free to explore my repositories and projects!**
 
 💡 **Open to collaborations and new opportunities!**
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=loopesm&color=blue&style=flat-square" alt="Profile views" />
-</div>
