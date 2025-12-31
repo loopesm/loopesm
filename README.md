@@ -5,40 +5,23 @@ I'm a software developer with experience in building modern, scalable, and secur
 ---
 
 ## 🛠️ Technologies & Tools
+**Languages:** ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-### Back-end
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-### Front-end
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-![EJS](https://img.shields.io/badge/EJS-808080?style=flat-square)
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-### Security
-![Bcrypt](https://img.shields.io/badge/Bcrypt-FF8C00?style=flat-square)
-![CSRF](https://img.shields.io/badge/CSRF-FF0000?style=flat-square)
-![SSL](https://img.shields.io/badge/SSL-008000?style=flat-square)
-### DevOps & Deployment
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/PM2-2B9FCF?style=flat-square&logo=pm2&logoColor=white)
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-### Automation & Testing
-![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
-![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
-### Other Tools
-![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white)
-![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+**Back-end:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+
+**Front-end:** ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![EJS](https://img.shields.io/badge/EJS-808080?style=flat-square)
+
+**Database:** ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
+
+**Security:** ![Bcrypt](https://img.shields.io/badge/Bcrypt-FF8C00?style=flat-square) ![CSRF](https://img.shields.io/badge/CSRF-FF0000?style=flat-square) ![SSL](https://img.shields.io/badge/SSL-008000?style=flat-square)
+
+**DevOps & Deployment:** ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-269539?style=flat-square&logo=nginx&logoColor=white) ![PM2](https://img.shields.io/badge/PM2-2B9FCF?style=flat-square&logo=pm2&logoColor=white)
+
+**Version Control:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+**Automation & Testing:** ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white) ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=black)
+
+**Other Tools:** ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3E?style=flat-square&logo=babel&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 ---
 
@@ -62,6 +45,7 @@ Contato-Fácil is an application that allows users to manage their own contact l
 `Node.js` `Express.js` `EJS` `MongoDB Atlas` `Bcrypt` `Docker` `Nginx` `PM2` `SSL`
 
 **🔗 Links:**
+- [Live Application](https://loopes.cloud/contato-facil)
 - [Docker Hub Image](https://hub.docker.com/r/loopesm/contato-facil)
 
 ---
@@ -115,8 +99,10 @@ Auto Progress is a command-line tool developed to automate course progress, faci
 
 ## 📊 GitHub Stats
 
-![Moisés's GitHub stats](https://github-readme-stats.vercel.app/api?username=loopesm&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loopesm&layout=compact&theme=radical)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=loopesm&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=loopesm&layout=compact&langs_count=7&theme=radical"/>
+</div>
 
 ---
 
